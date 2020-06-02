@@ -1,0 +1,110 @@
+category,group,attribute,color
+roasted,,,#c84930
+roasted,pipe tobacco,,#caa465
+roasted,tobacco,,#dfbd7e
+roasted,burnt,,#be8663
+roasted,burnt,acrid,#b9a449
+roasted,burnt,ashy,#899893
+roasted,burnt,smoky,#a1743b
+roasted,burnt,"brown, roast",#894810
+roasted,cereal,,#ddb061
+roasted,cereal,grain,#b7906f
+roasted,cereal,malt,#eb9d5f
+spices,,,#ad213e
+spices,pungent,,#794752
+spices,pepper,,#cb3d41
+spices,brown spice,,#b14d57
+spices,brown spice,anise,#c78936
+spices,brown spice,nutmeg,#8c292c
+spices,brown spice,cinnamon,#e4772d
+spices,brown spice,clove,#a16c5a
+nutty/cocoa,,,#a87b64
+nutty/cocoa,nutty,,#c78869
+nutty/cocoa,nutty,peanuts,#d4ad12
+nutty/cocoa,nutty,hazelnut,#692a19
+nutty/cocoa,nutty,almond,#c89f83
+nutty/cocoa,cocoa,,#bb764b
+nutty/cocoa,cocoa,chocolate,#692a19
+nutty/cocoa,cocoa,dark chocolate,#470604
+sweet,,,#e55832
+sweet,brown sugar,,#d35a59
+sweet,brown sugar,molasses,#310d0f
+sweet,brown sugar,maple syrup,#ae341f
+sweet,brown sugar,caramelized,#d78823
+sweet,brown sugar,honey,#da5d1f
+sweet,vanilla,,#f89a80
+sweet,vanillin,,#f37674
+sweet,overall sweet,,#e65b68
+sweet,sweet aromatics,,#cf545f
+floral,,,#da0e69
+floral,black tea,,#975e6d
+floral,floral,,#e0719c
+floral,floral,chamomile,#f89e1c
+floral,floral,rose,#ef5a78
+floral,floral,jasmine,#f7f1bd
+fruity,,,#d91d23
+fruity,berry,,#dd4c51
+fruity,berry,blackberry,#3e0317
+fruity,berry,raspberry,#e52a69
+fruity,berry,blueberry,#6569b0
+fruity,berry,strawberry,#ee2d36
+fruity,dried fruit,,#c94a44
+fruity,dried fruit,raisin,#b53b54
+fruity,dried fruit,prune,#a5446f
+fruity,other fruit,,#f1694b
+fruity,other fruit,cherry,#e73551
+fruity,other fruit,pomegranate,#e65656
+fruity,other fruit,coconut,#d07c36
+fruity,other fruit,pineapple,#f89b1c
+fruity,other fruit,grape,#aeb92c
+fruity,other fruit,apple,#4eb947
+fruity,other fruit,peach,#f68a5c
+fruity,other fruit,pear,#baa635
+fruity,citrus fruit,,#f7a128
+fruity,citrus fruit,grapefruit,#f26355
+fruity,citrus fruit,orange,#e1631e
+fruity,citrus fruit,lemon,#fde404
+fruity,citrus fruit,lime,#7eb138
+sour/fermented,,,#ebb40f
+sour/fermented,sour,,#e1c315
+sour/fermented,sour,sour aromatics,#9ea718
+sour/fermented,sour,acetic acid,#94a76f
+sour/fermented,sour,butyric acid,#d0b34e
+sour/fermented,sour,isovaleric acid,#8eb646
+sour/fermented,sour,citric acid,#faf007
+sour/fermented,sour,malic acid,#c1ba07
+sour/fermented,alcohol/fermented,,#b09733
+sour/fermented,alcohol/fermented,winey,#8f1d53
+sour/fermented,alcohol/fermented,whiskey,#b34139
+sour/fermenetd,alcohol/fermented,fermented,#ba9231
+sour/fermented,alcohol/fermented,overripe,#8b6439
+green/vegetative,,,#187a2f
+green/vegetative,olive oil,,#a2b029
+green/vegetative,raw,,#718933
+green/vegetative,green/vegetative,,#3aa255
+green/vegetative,green/vegetative,under-ripe,#a2bb2a
+green/vegetative,green/vegetative,peapod,#62aa3c
+green/vegetative,green/vegetative,fresh,#03a653
+green/vegetative,green/vegetative,dark green,#038449
+green/vegetative,green/vegetative,vegetative,#29b34b
+green/vegetative,green/vegetative,hay-like,#a3a830
+green/vegetative,green/vegetative,herb-like,#7ac141
+green/vegetative,beany,,#3aa255
+other,,,#0aa2b5
+other,papery/musty,,#9db2b7
+other,papery/musty,stale,#8b8c90
+other,papery/musty,cardboard,#beb276
+other,papery/musty,papery,#fefef4
+other,papery/musty,woody,#744e03
+other,papery/musty,moldy/damp,#a3a36f
+other,papery/musty,musty/earthy,#978847
+other,papery/musty,animalic,#9d977f
+other,papery/musty,meaty brothy,#cc7b6a
+other,papery/musty,phenolic,#db646a
+other,chemical,,#76c0cb
+other,chemical,bitter,#80a89d
+other,chemical,salty,#def2fd
+other,chemical,medicinal,#7a9bae
+other,chemical,petroleum,#039eb8
+other,chemical,rubber,#120c0c
+
